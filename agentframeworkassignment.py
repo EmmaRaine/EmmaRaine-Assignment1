@@ -16,21 +16,12 @@ import random
 # Created a link to get the list of agents into each of the agents
 
 class Agent():
-    def __init__(self, environment, agents, y=None, x=None):
+    def __init__(self, environment, agents):
         self.environment = environment
         self.agents = agents
         self.store = 0 
         self._x = random.randint(0,99) 
         self._y = random.randint(0,99)
-        if (x == None):
-            self._x = random.randint(0,100)
-        else:
-            self._x = x
-        if (y == None):
-            self._y = random.randint(0,100)
-        else:
-            self._y = y
-
 
 # The following code makes a move() method within the Agent class. The code will randomly alter the self.x and self.y coordinates using 
 # control flow (if-else) statements. 
@@ -38,10 +29,9 @@ class Agent():
 # The if statement contains a block of code that evaluates a condition and makes a choice. An else statement contains the block of code that 
 # executes, if the condition in the if statement is not met.
 
-# This code will generate a random floating number between 0 and 1 using the 
-# random.random() function from the random module. The code should random walk the coordinates 1 step depending on which conditions are
-# met; if random.random() is less than 0.5 self.x/self.y coordinates will increase by 1 and if random.random() is greater than 0.5
-# self.x/self.y coordiantes will decrease by 1. 
+# This code will generate a random floating number between 0 and 1 using the random.random() function from the random module. The  
+# code should random walk the coordinates 1 step depending on which conditions are met; if random.random() is less than 0.5 
+# self.x/self.y coordinates will increase by 1 and if random.random() is greater than 0.5 self.x/self.y coordiantes will decrease by 1. 
 
 # To deal with boundary issues, a common solution is to allow points leaving the top of an area to come in at the bottom and leaving 
 # left, come in on the right (making the space into a Torus). The following code uses the modulus operator (%) which gives and 
@@ -49,17 +39,17 @@ class Agent():
 
 
     def move(self):
-            if random.random() < 0.5:
-                self._x = (self._x + 1) % 100
-            else:
-                self._x = (self._x - 1) % 100
-    
-            if random.random() < 0.5:
-                self._y = (self._y + 1) % 100
-            else:
-                self._y = (self._y - 1) % 100
-                
+        if random.random() < 0.5:
+            self._x = (self._x + 1) % 100
+        else:
+            self._x = (self._x - 1) % 100
 
+        if random.random() < 0.5:
+            self._y = (self._y + 1) % 100
+        else:
+            self._y = (self._y - 1) % 100
+            
+    
 # The following code makes an eat() method within the Agent class. This code will allow the environment data to be altered. 
 # If self.x and self.y are greater than 10 then the environment will lose 10, which will be added to the store. This allows the agents to 
 # edit the environment.
