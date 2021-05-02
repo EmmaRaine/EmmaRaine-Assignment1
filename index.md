@@ -9,7 +9,7 @@ I am Emma Raine, a 21 year-old postgraduate student from West Yorkshire. I compl
 
 Throughout my undergraduate I was able to learn the basic functions and tools and develop my knowledge of Geographical Information Systems - *GIS* **(in particular ArcGIS Pro and QGIS)** and numerous statistical programes **(R, Minitab, SPSS)**. Postgraduate studies have since allowed me to further my knowledge of GIS, underpinned by a more comprehensive understanding of spatial data and spatial analysis, while my masters studies have allowed me to develop my programming skills to a level I would not previously thought I could understand. 
 
-My online portfolio will present me with an opportunity to share my postgraduate work, highlighting the skills I have developed.
+My online portfolio will present me with an opportunity to share my postgraduate work, highlighting the skills I have developed. While my portfolio currently only includes links to work undertaken in my postgraduate programming module, in the future it will hopefully contain links to other postgraduate work. 
 
 <p align="center">
   <img width="300" height="400" src="IMG_8380.jpg">
