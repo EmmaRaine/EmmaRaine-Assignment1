@@ -10,5 +10,5 @@ I am Emma Raine, a 21 year-old postgraduate student from the University of Leeds
 Throughout my undergraduate and now my postgraduate education I have become a competent user of GIS (in particular ArcGIS Pro and QGIS) and numerous statistical programes (R, Minitab, SPSS). Alongside this, I am continuing to develop my knowledge of programming in my postgraduate degree, aiming to ultimately produce a final project planning the location of drunken persons movement. 
 
 <p align="center">
-  <img width="400" height="600" src="IMG_8380.jpg">
+  <img width="300" height="500" src="IMG_8380.jpg">
 </p>
