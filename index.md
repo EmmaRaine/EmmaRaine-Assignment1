@@ -5,9 +5,11 @@ title: Assignment 1
 
 ### Hello and welcome to my online portfolio. 
 
-I am Emma Raine, a 21 year-old postgraduate student from West Yorkshire. I am currently studying at the University of Leeds for an MSc in [Geographical Information Systems](https://environment.leeds.ac.uk/courses/7411/geographical-information-systems-msc), focusing on a vast array of topics. I completed my undergraduate studies at the University of Liverpool, obtaining a BSc in [Geography](https://www.liverpool.ac.uk/study/undergraduate/courses/geography-bsc-hons/overview/), where I developed a particular interest in population change and health alongside natural hazards and climatology. 
+I am Emma Raine, a 21 year-old postgraduate student from West Yorkshire. I completed my undergraduate studies at the University of Liverpool, obtaining a BSc in [Geography](https://www.liverpool.ac.uk/study/undergraduate/courses/geography-bsc-hons/overview/), where I developed a particular interest in population change and health alongside natural hazards and climatology. I am currently studying at the University of Leeds for an MSc in [Geographical Information Systems](https://environment.leeds.ac.uk/courses/7411/geographical-information-systems-msc), focusing on a vast array of topics. 
 
-Throughout my undergraduate and now my postgraduate education I have become a competent user of GIS **(in particular ArcGIS Pro and QGIS)** and numerous statistical programes **(R, Minitab, SPSS)**. Alongside this, I am continuing to develop my knowledge of programming in my postgraduate degree, aiming to ultimately produce a final project planning the location of drunken persons movement. 
+Throughout my undergraduate I was able to learn the basic functions and tools and develop my knowledge of Geographical Information Systems - *GIS* **(in particular ArcGIS Pro and QGIS)** and numerous statistical programes **(R, Minitab, SPSS)**. Postgraduate studies have since allowed me to further my knowledge of GIS, underpinned by a more comprehensive understanding of spatial data and spatial analysis, while my masters studies have allowed me to develop my programming skills to a level I would not previously thought I could understand. 
+
+My online portfolio will present me with an opportunity to share my postgraduate work, highlighting the skills I have developed.
 
 <p align="center">
   <img width="300" height="400" src="IMG_8380.jpg">
