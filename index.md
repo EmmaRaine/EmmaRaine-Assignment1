@@ -27,7 +27,7 @@ These modules include:
 
 ## Programming for Geographical Information Systems - Assignment 1
 
-As part of this module, the first assignment required me to create an agent-based model. This model was created to represent the movement and eating of sheep within an environment, also modelling these sheep sharing their food stores with other sheep, depending on proximity. 
+As part of this module, the first assignment required me to create an agent-based model. This model was created to represent the movement and food consumption of sheep within an environment, also modelling these sheep sharing their food stores with other sheep, depending on proximity. 
 The model was created using python programming language in Spyder and was extensively tested, generally using the print() function. For easy manipulation of the model, some of the variables can be altered by changing the number to which they are assigned. This creates a flexible model that can represent different sheep behaviours. 
 
 These variables include:
