@@ -3,7 +3,7 @@ title: Assignment 1
 ---
 
 
-## Hello and welcome to my online portfolio. 
+## Welcome to my online portfolio. 
 
 I am Emma Raine, a 21 year-old postgraduate student from West Yorkshire. I completed my undergraduate studies at the University of Liverpool, obtaining a BSc in [Geography](https://www.liverpool.ac.uk/study/undergraduate/courses/geography-bsc-hons/overview/), where I developed a particular interest in population change and health alongside natural hazards and climatology. I am currently studying at the University of Leeds for an MSc in [Geographical Information Systems](https://environment.leeds.ac.uk/courses/7411/geographical-information-systems-msc), focusing on a variey of human and environmental topics. 
 
@@ -18,7 +18,7 @@ My online portfolio presents me with an opportunity to share my postgraduate wor
 ## MSc Geographical Information Systems
 
 Starting in September 2020, I began studying to obtain a master's degree, hoping in the future this will provide me with essential knowledge for a role in planning or environmental impact assessment. During this year-long course, I will be required to undertake 7 modules, accounting for 180 credits. 
-These modules include:
+These modules cover an array of topics and include:
 * GIS and Data Visualisation (click [here](http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201718&M=GEOG-5032M))
 * Professional and Personal Development (click [here](http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202021&F=P&M=GEOG-5022M))
 * Geodemographics and Neighbourhood Analysis (click [here](http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202021&F=P&M=GEOG-5255M))
@@ -29,10 +29,10 @@ These modules include:
 
 ## Programming for Geographical Information Systems - Assignment 1
 
-As part of this module, the first assignment required me to create an agent-based model to represent the movement and food consumption of sheep within an environment. 
-The model was created the in Spyder application and was tested, generally using the print() function. For easy manipulation of the model, some of the variables can be altered by changing the number to which they are assigned. This creates a flexible model that can represent different sheep behaviours. 
+As part of this module, the first assignment required me to create an agent-based model to represent movement and food consumption of sheep within an environment. 
+The model was created the in the Spyder application, in an IPython console and was tested, generally using the print() function to ensure the user has no functional issues. For easy manipulation of the model, some of the variables can be altered by changing the number to which they are assigned. This creates a flexible model that can represent different sheep behaviours. 
 
-This code should run continually as an animation until a stopping condition, which suggests the sheep's stores are full, is met. This animation can be viewed in a graphical user interface (GUI) by using the menu to select 'run model'.
+This code should run continually as an animation until a stopping condition, which suggests the sheep's stores are full, is met. This animation can be viewed in a graphical user interface (GUI) by using the menu to select 'run model', but also contains alternative code to allow the user to run the model in a python program without the use of the GUI.
 
 The repository that contains the code for these models can be viewed [here](https://github.com/EmmaRaine/PracticalPortfolio)
 
